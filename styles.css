@@ -1,0 +1,27 @@
+.intro {
+    background-color: rgb(218, 28, 28);
+    overflow: hidden;
+}
+.intro{
+    float: left;
+    color: rgb(29, 65, 66);
+    text-align: center;
+    padding:16px 18px ;
+    font-size: 16px;
+
+}
+.intro a:hover{
+    color: white;
+}
+*{
+    background-color: teal;
+}
+#myimg{
+    height: 200px;
+}
+
+p1{color: tomato;
+    font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
+    font-size: medium;
+
+}
